@@ -29,6 +29,7 @@ pgrx = "0.12.1"
 serde = "1.0.201"
 serde_json = "1.0.120"
 signal-hook = "0.3.17"
+sqlparser = "0.50.0"
 strum = { version = "0.26.3", features = ["derive"] }
 supabase-wrappers = { git = "https://github.com/paradedb/wrappers.git", default-features = false, rev = "719628f" }
 thiserror = "1.0.59"
